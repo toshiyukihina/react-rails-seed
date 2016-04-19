@@ -1,0 +1,26 @@
+{
+  "name": "react-rails-seed",
+  "version": "0.0.1",
+  "description": "This README would normally document whatever steps are necessary to get the application up and running.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toshiyukihina/react-rails-seed.git"
+  },
+  "author": "Toshiyuki HINA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toshiyukihina/react-rails-seed/issues"
+  },
+  "homepage": "https://github.com/toshiyukihina/react-rails-seed#readme",
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "browserify-incremental": "^3.1.1",
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1",
+    "reactify": "^1.1.1"
+  }
+}
