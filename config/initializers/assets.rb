@@ -11,5 +11,6 @@ Rails.application.config.assets.version = '1.0'
 # Rails.application.config.assets.precompile += %w( search.js )
 
 Rails.application.config.browserify_rails.commandline_options = [
-  "--transform reactify"
+  '-t babelify',
+  '-t reactify --extension=".js.jsx"'
 ]
